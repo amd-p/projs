@@ -1,2 +1,2 @@
 # projs
-Projetos
+Primeiro projeto realizado para formação de HTML Developer, da DIO.
